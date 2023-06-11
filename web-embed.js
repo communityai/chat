@@ -1,6 +1,6 @@
 const botID = document.currentScript.id;
 const iframeId = "iframe";
-const BASE_URL = "https://www.web3communityai.com/" //"http://localhost:3000";
+const BASE_URL = "https://www.web3communityai.com" //"http://localhost:3000";
 
 let button;
 
